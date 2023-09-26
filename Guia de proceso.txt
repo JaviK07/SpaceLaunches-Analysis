@@ -1,0 +1,9 @@
+-Top 3 de paises con mas lanzamientos. y top 3 con lanzamientos fracasados
+-Ratio de exito/fracaso
+-Un mapa mostrando las locaciones de cada lanzamiento realizado (del top 5?, tengo datos casi precisos)
+-Top 5 de año de lanzamientos
+-Precio desde 2020 de cada mision (con filtro de tops)
+-Cuantos Rockets hay activos (con mapa?)
+
+Completo:
+-Cantidad de companias por pais(?
