@@ -1,0 +1,481 @@
+Family Id,No,Config,Status,Price,Liftoff Thrust,Payload to LEO,Payload to GTO,Stages,Strap-ons,Rocket Height,Fairing Diameter,Fairing Height
+3.0,1.0,Falcon 9 Block 1 (v1.0),Retired,$59.5 million,"4,940 kN","10,450 kg","4,540 kg",2,0,54.9 m,5.2 m,13.0 m
+3.0,2.0,Falcon 9 Block 2 (v1.1),Retired,$56.5 million,"5,885 kN","13,150 kg","4,850 kg",2,0,68.4 m,5.2 m,13.0 m
+3.0,3.0,Falcon 9 Block 3 (v1.2/FT),Retired,$62.0 million,"6,804 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+3.0,4.0,Falcon 9 Block 4,Retired,$62.0 million,"6,804 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+3.0,5.0,Falcon 9 Block 5,Active,$50.0 million,"7,607 kN","22,800 kg","8,300 kg",2,0,70.0 m,5.2 m,13.0 m
+4.0,1.0,Electron,Active,$7.5 million,225 kN,300 kg,,2,0,17.0 m,1.2 m,
+4.0,2.0,Electron/Curie,Active,$7.5 million,225 kN,300 kg,,3,0,17.0 m,1.2 m,2.5 m
+4.0,3.0,Electron/Photon,Active,,162 kN,300 kg,,3,0,17.0 m,1.2 m,
+5.0,1.0,SLS Block 1,Planned,$876.0 million,"39,440 kN","95,000 kg",,2,2,98.1 m,5.1 m,14.3 m
+5.0,2.0,SLS Block 1B,Planned,$876.0 million,"39,440 kN","105,000 kg",,2,2,111.0 m,,
+9.0,1.0,Ariane 1,Retired,,"2,772 kN","4,850 kg","1,850 kg",4,0,47.388 m,,
+7.0,1.0,Delta II 6920-10,Retired,,"3,481 kN","3,950 kg",,2,9,38.9 m,3.0 m,8.9 m
+7.0,2.0,Delta II 6920-8,Retired,,"3,481 kN","3,983 kg",,2,9,38.1 m,2.4 m,8.49 m
+7.0,3.0,Delta II 6925,Retired,,"3,481 kN",,"1,447 kg",3,9,38.1 m,2.9 m,8.49 m
+7.0,4.0,Delta II 6925-8,Retired,,"3,481 kN",,"1,460 kg",3,9,38.1 m,2.4 m,8.49 m
+7.0,5.0,Delta II 7320-10C,Retired,,"2,533 kN","2,703 kg",,2,3,38.9 m,3.0 m,8.9 m
+7.0,6.0,Delta II 7326,Retired,,"2,533 kN",,934 kg,3,3,38.1 m,2.9 m,8.49 m
+7.0,7.0,Delta II 7420-10C,Retired,,"3,020 kN","3,099 kg",,2,4,38.9 m,3.0 m,8.9 m
+7.0,8.0,Delta II 7425,Retired,,"3,020 kN",,"1,110 kg",3,4,38.1 m,2.9 m,8.49 m
+7.0,9.0,Delta II 7425-10C,Retired,,"3,020 kN",,"1,073 kg",3,4,38.9 m,3.0 m,8.9 m
+7.0,10.0,Delta II 7426,Retired,,"3,020 kN",,"1,058 kg",3,4,38.1 m,2.9 m,8.49 m
+7.0,11.0,Delta II 7920-10,Retired,,"3,511 kN","4,800 kg",,2,9,38.9 m,3.0 m,8.9 m
+7.0,12.0,Delta II 7920-10C,Retired,,"3,511 kN","4,844 kg",,2,9,38.9 m,3.0 m,8.9 m
+7.0,13.0,Delta II 7920-10L,Retired,,"3,511 kN","4,805 kg",,2,9,39.3 m,3.0 m,9.3 m
+7.0,14.0,Delta II 7920-8,Retired,,"3,511 kN","5,000 kg",,2,9,38.1 m,2.4 m,8.49 m
+7.0,15.0,Delta II 7920H,Retired,,"4,398 kN","6,097 kg",,2,9,38.1 m,2.9 m,8.49 m
+7.0,16.0,Delta II 7920H-10C,Retired,,"4,398 kN","5,959 kg",,2,9,38.9 m,3.0 m,8.9 m
+7.0,17.0,Delta II 7925,Retired,,"3,511 kN",,"1,819 kg",3,9,38.1 m,2.9 m,8.49 m
+7.0,18.0,Delta II 7925-10,Retired,,"3,511 kN",,"1,730 kg",3,9,38.9 m,3.0 m,8.9 m
+7.0,19.0,Delta II 7925-10C,Retired,,"3,511 kN",,"1,747 kg",3,9,38.9 m,3.0 m,8.9 m
+7.0,20.0,Delta II 7925-10L,Retired,,"3,511 kN",,"1,739 kg",3,9,39.3 m,3.0 m,9.3 m
+7.0,21.0,Delta II 7925-8,Retired,,"3,511 kN",,"1,780 kg",3,9,38.1 m,2.4 m,8.49 m
+7.0,22.0,Delta II 7925H,Retired,,"4,398 kN",,"2,171 kg",3,9,38.1 m,2.9 m,8.49 m
+25.0,1.0,Atlas V 401,Active,$109.0 million,"3,826 kN","9,797 kg","4,750 kg",2,0,58.3 m,4.2 m,13.8 m
+25.0,2.0,Atlas V 411,Retired,$115.0 million,"5,489 kN","12,030 kg","5,950 kg",2,1,58.3 m,4.2 m,13.8 m
+25.0,3.0,Atlas V 421,Active,$123.0 million,"7,152 kN","13,600 kg","6,890 kg",2,2,58.3 m,4.2 m,13.8 m
+25.0,4.0,Atlas V 431,Retired,$130.0 million,"8,815 kN","15,260 kg","7,700 kg",2,3,59.1 m,4.2 m,13.8 m
+25.0,5.0,Atlas V 501,Retired,$120.0 million,"3,826 kN","8,210 kg","3,780 kg",2,0,62.2 m,5.4 m,26.5 m
+25.0,6.0,Atlas V 511,Retired,$130.0 million,"5,489 kN","11,000 kg","5,250 kg",2,1,62.2 m,5.4 m,26.5 m
+25.0,7.0,Atlas V 521,Retired,$135.0 million,"7,152 kN","13,500 kg","6,480 kg",2,2,62.2 m,5.4 m,26.5 m
+25.0,8.0,Atlas V 531,Active,$140.0 million,"8,815 kN","15,530 kg","7,450 kg",2,3,62.2 m,5.4 m,26.5 m
+25.0,9.0,Atlas V 541,Active,$145.0 million,"10,478 kN","17,410 kg","8,290 kg",2,4,62.2 m,5.4 m,26.5 m
+25.0,10.0,Atlas V 551,Active,$153.0 million,"12,141 kN","18,850 kg","8,900 kg",2,5,62.2 m,5.4 m,26.5 m
+25.0,11.0,Atlas V N22,Active,,"7,152 kN","13,000 kg",,2,2,,,
+10.0,1.0,Long March 1,Retired,,"1,020 kN",300 kg,0 kg,3,0,30.45 m,1.5 m,4.67 m
+26.0,1.0,Antares 110,Retired,$80.0 million,"3,265 kN",,,2,0,40.5 m,3.94 m,4.87 m
+26.0,2.0,Antares 120,Retired,$80.0 million,"3,265 kN","4,600 kg","1,500 kg",2,0,40.5 m,3.94 m,9.87 m
+26.0,3.0,Antares 130,Retired,$80.0 million,"3,265 kN","5,100 kg",,2,0,40.5 m,3.94 m,9.87 m
+26.0,4.0,Antares 230,Retired,$85.0 million,"3,844 kN","7,000 kg",,2,0,41.9 m,3.9 m,9.9 m
+26.0,5.0,Antares 230+,Active,$85.0 million,"3,844 kN","8,000 kg",,2,0,42.5 m,3.9 m,9.9 m
+28.0,1.0,Minotaur C (Taurus),Active,$45.0 million,"1,607 kN","1,458 kg",,4,0,27.9 m,2.34 m,
+29.0,1.0,Saturn I Block I,Retired,,"6,700 kN",0 kg,,1,,55.0 m,,
+29.0,2.0,Saturn I Block II,Retired,,"6,700 kN","9,070 kg",,2,0,55.0 m,,
+31.0,1.0,Vega,Active,$37.0 million,"2,200 kN","1,436 kg",,4,0,29.9 m,2.6 m,7.88 m
+31.0,2.0,Vega C,Planned,,"4,500 kN","2,200 kg",,4,0,35.0 m,,
+31.0,3.0,Vega E,Planned,,,,,4,0,35.0 m,,
+32.0,1.0,SLV-3,Retired,,503 kN,40 kg,,4,0,22.0 m,1.0 m,
+33.0,1.0,ASLV,Retired,,"1,005 kN",150 kg,,5,2,24.0 m,1.0 m,
+34.0,1.0,PSLV-CA,Active,$21.0 million,"4,847 kN",,,4,0,44.0 m,3.2 m,8.3 m
+34.0,2.0,PSLV-DL,Active,,"5,867 kN",,,4,2,44.0 m,3.2 m,8.3 m
+34.0,3.0,PSLV-G,Retired,$25.0 million,"6,887 kN","3,250 kg","1,410 kg",4,6,44.5 m,3.2 m,8.3 m
+34.0,4.0,PSLV-QL,Active,$21.0 million,"7,661 kN",,,4,4,44.0 m,3.2 m,8.3 m
+34.0,5.0,PSLV-XL,Active,$31.0 million,"7,661 kN","3,250 kg","1,410 kg",4,6,44.0 m,3.2 m,8.3 m
+35.0,1.0,GSLV Mk I,Retired,$47.0 million,,,"1,500 kg",3,4,49.13 m,3.4 m,7.8 m
+35.0,2.0,GSLV Mk II,Active,$47.0 million,"7,887 kN","5,000 kg","2,500 kg",3,4,51.7 m,4.0 m,7.8 m
+37.0,1.0,Rokot/Briz K,Retired,,"1,875 kN","1,500 kg",0 kg,3,0,25.5 m,2.5 m,3.0 m
+37.0,2.0,Rokot/Briz KM,Retired,$13.0 million,"1,875 kN","2,150 kg",0 kg,3,0,29.1 m,2.62 m,6.74 m
+37.0,3.0,Rokot-M/Briz KM-2,Planned,$12.0 million,"1,875 kN","2,300 kg",0 kg,3,0,29.1 m,2.62 m,6.74 m
+36.0,1.0,Space Shuttle Atlantis,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2,2,56.1 m,,
+36.0,2.0,Space Shuttle Challenger,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2,2,56.1 m,,
+36.0,3.0,Space Shuttle Columbia,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2,2,56.1 m,,
+36.0,4.0,Space Shuttle Discovery,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2,2,56.1 m,,
+36.0,5.0,Space Shuttle Endeavour,Retired,$450.0 million,"30,250 kN","27,500 kg","3,810 kg",2,2,56.1 m,,
+38.0,1.0,Kuaizhou 1,Retired,,500 kN,100 kg,0 kg,4,0,13.6 m,1.0 m,3.1 m
+40.0,1.0,Proton-M,Active,$65.0 million,"10,027 kN","23,700 kg",0 kg,3,0,57.24 m,4.35 m,15.26 m
+40.0,2.0,Proton-M/Briz-M,Active,$65.0 million,"10,027 kN","21,000 kg","6,900 kg",4,0,58.18 m,4.35 m,15.26 m
+40.0,3.0,Proton-M/DM-2,Active,$65.0 million,"10,027 kN","21,000 kg","6,000 kg",4,0,57.24 m,4.35 m,10.0 m
+40.0,4.0,Proton-M/DM-3,Active,$65.0 million,"10,027 kN","21,000 kg","6,000 kg",4,0,57.24 m,4.35 m,10.0 m
+41.0,1.0,Epsilon,Active,,"1,612 kN",,,3,0,26.0 m,2.5 m,9.19 m
+41.0,2.0,Epsilon Demo,Retired,,"1,621 kN",490 kg,,4,0,24.0 m,2.5 m,9.19 m
+41.0,3.0,Epsilon PBS,Active,$39.0 million,"1,612 kN",700 kg,,4,0,26.0 m,2.5 m,9.19 m
+41.0,4.0,Epsilon S,Planned,,"1,612 kN","1,400 kg",0 kg,4,0,27.0 m,2.5 m,9.19 m
+45.0,1.0,LauncherOne,Active,$12.0 million,,500 kg,,2,0,16.0 m,1.3 m,
+46.0,1.0,Kaituozhe 2,Active,,500 kN,350 kg,0 kg,4,0,16.8 m,1.4 m,4.5 m
+47.0,1.0,SSLV,Planned,,,500 kg,,4,0,34.0 m,2.0 m,
+48.0,1.0,Simorgh,Active,,"1,333 kN",350 kg,0 kg,3,0,26.5 m,1.5 m,3.2 m
+49.0,1.0,ZhuQue-1,Retired,,450 kN,300 kg,0 kg,3,0,19.0 m,1.2 m,2.0 m
+51.0,1.0,Juno I,Retired,,416 kN,11 kg,,4,0,21.2 m,,
+50.0,1.0,Zenit-2,Retired,,"7,257 kN","13,500 kg","4,500 kg",2,0,57.0 m,3.9 m,13.65 m
+50.0,2.0,Zenit-2 FG,Retired,,"7,257 kN","13,740 kg","4,500 kg",2,0,57.0 m,3.9 m,13.65 m
+50.0,3.0,Zenit-3 SL,Retired,,"7,257 kN","13,740 kg","6,000 kg",3,0,59.46 m,4.1 m,10.4 m
+50.0,4.0,Zenit-3 SLB,Retired,,"7,257 kN","13,740 kg","5,000 kg",3,0,59.46 m,4.1 m,10.4 m
+50.0,5.0,Zenit-3 SLBF,Retired,,"7,257 kN","13,740 kg","6,000 kg",3,0,54.35 m,4.1 m,10.7 m
+53.0,1.0,NOTS-EV-1,Retired,,,1 kg,0 kg,5,0,4.0 m,,
+52.0,1.0,Vanguard,Retired,,135 kN,10 kg,,3,0,23.0 m,,
+57.0,1.0,Mu-III C,Retired,,,195 kg,,3,8,,,
+57.0,2.0,Mu-III H,Retired,,,270 kg,,4,8,,,
+57.0,3.0,Mu-III S,Retired,,,290 kg,,3,8,,,
+57.0,4.0,Mu-III S2,Retired,,,770 kg,,4,2,,,
+55.0,1.0,Titan II(23)G,Retired,$35.0 million,"1,900 kN","3,600 kg",,2,,42.9 m,3.05 m,9.1 m
+55.0,2.0,Titan II GLV,Retired,,"1,913 kN","3,580 kg",,2,0,33.2 m,,
+59.0,1.0,Energiya/Buran,Retired,"$3,000.0 million","35,832 kN","105,000 kg","40,000 kg",1,4,59.0 m,5.7 m,41.0 m
+59.0,2.0,Energiya/Polyus,Retired,"$3,000.0 million","35,832 kN","105,000 kg","40,000 kg",1,4,59.0 m,5.7 m,41.0 m
+58.0,1.0,Angara A5,Planned,$100.0 million,"9,610 kN","25,000 kg","3,000 kg",2,4,55.4 m,4.35 m,15.2 m
+58.0,2.0,Angara A5/Briz-M,Active,$100.0 million,"9,610 kN","23,000 kg","5,400 kg",3,4,55.4 m,4.35 m,15.2 m
+58.0,3.0,Angara A5M,Planned,$100.0 million,"9,610 kN","25,000 kg","6,000 kg",2,4,55.4 m,4.35 m,15.2 m
+58.0,4.0,Angara A5/Persey,Active,$100.0 million,"9,610 kN","23,000 kg","5,400 kg",3,4,55.4 m,4.35 m,15.2 m
+60.0,1.0,Safir-1,Retired,,284 kN,30 kg,0 kg,2,0,22.6 m,1.25 m,2.0 m
+60.0,2.0,Safir-1A,Retired,,298 kN,50 kg,0 kg,2,0,22.6 m,1.25 m,2.0 m
+60.0,3.0,Safir-1B,Retired,,298 kN,50 kg,0 kg,2,0,22.6 m,1.25 m,2.0 m
+60.0,4.0,Safir-1B+,Active,,334 kN,50 kg,0 kg,2,0,22.6 m,1.25 m,2.0 m
+62.0,1.0,Firefly Alpha,Active,$15.0 million,736 kN,"1,000 kg",,2,0,29.0 m,2.0 m,5.0 m
+61.0,1.0,N-1 L3,Retired,,"45,307 kN","95,000 kg","20,000 kg",5,0,105.29 m,5.92 m,43.72 m
+61.0,2.0,N-1 L3 M,Retired,,"45,307 kN","95,000 kg","20,000 kg",5,0,105.29 m,5.92 m,43.72 m
+64.0,1.0,Black Arrow,Retired,,256 kN,135 kg,,3,,13.0 m,,
+63.0,1.0,OS-M1,Active,,500 kN,205 kg,0 kg,4,0,18.0 m,0.7 m,1.26 m
+65.0,1.0,Europa 1,Retired,,"3,962 kN","1,440 kg",200 kg,3,0,31.68 m,2.0 m,
+65.0,2.0,Europa 2,Retired,,"8,372 kN",,360 kg,4,0,31.68 m,2.0 m,
+66.0,1.0,Diamant A,Retired,,274 kN,80 kg,0 kg,3,0,18.49 m,0.65 m,2.16 m
+66.0,2.0,Diamant B,Retired,,348 kN,115 kg,0 kg,3,0,23.54 m,0.85 m,2.8 m
+66.0,3.0,Diamant BP4,Retired,,317 kN,150 kg,0 kg,3,0,21.64 m,1.45 m,4.5 m
+67.0,1.0,New Glenn,Planned,,"17,100 kN","45,000 kg","13,000 kg",2,0,82.0 m,7.0 m,5.4 m
+68.0,1.0,Athena I,Retired,,"1,900 kN",820 kg,,3,,18.9 m,,
+70.0,1.0,Vulcan Centaur,Planned,,,,,2,,61.6 m,5.4 m,
+70.0,2.0,Vulcan Heavy,Planned,,"17,056 kN","27,200 kg","14,400 kg",2,6,61.6 m,5.4 m,21.3 m
+70.0,3.0,Vulcan VC0,Planned,,"4,900 kN","10,600 kg","2,900 kg",2,0,61.6 m,5.4 m,21.3 m
+70.0,4.0,Vulcan VC2,Planned,,"8,952 kN","18,500 kg","7,600 kg",2,2,61.6 m,5.4 m,21.3 m
+70.0,5.0,Vulcan VC4,Planned,,"13,006 kN","23,900 kg","10,800 kg",2,4,61.6 m,5.4 m,21.3 m
+70.0,6.0,Vulcan VC6,Planned,,"17,056 kN","27,200 kg","13,600 kg",2,6,61.6 m,5.4 m,21.3 m
+74.0,1.0,Taepodong-1,Retired,,280 kN,20 kg,0 kg,3,0,24.0 m,0.88 m,3.1 m
+72.0,1.0,Shtil',Retired,,807 kN,220 kg,0 kg,3,0,14.8 m,0.5 m,1.0 m
+76.0,1.0,VLS-1,Retired,,623 kN,380 kg,,3,4,19.0 m,1.0 m,
+75.0,1.0,Shavit,Retired,,413 kN,160 kg,,3,0,18.0 m,1.3 m,4.37 m
+75.0,2.0,Shavit-1,Retired,,554 kN,225 kg,,3,0,20.0 m,1.35 m,4.37 m
+75.0,3.0,Shavit-2,Active,,554 kN,350 kg,,3,0,22.0 m,1.35 m,4.37 m
+77.0,1.0,KSLV-1,Retired,,"1,639 kN",100 kg,0 kg,2,0,33.52 m,2.0 m,5.38 m
+77.0,2.0,KSLV-2,Active,,"2,620 kN","1,500 kg",550 kg,3,0,47.5 m,3.3 m,
+78.0,1.0,Lambda-IV S,Retired,,,12 kg,,4,2,16.5 m,,
+79.0,1.0,SS-520,Active,,,4 kg,,3,0,9.54 m,0.52 m,
+80.0,1.0,H-II,Retired,,,"10,060 kg","3,930 kg",2,2,49.0 m,,
+80.0,2.0,H-II (2 SSB),Retired,,,"10,060 kg","3,930 kg",2,4,49.0 m,,
+80.0,3.0,H-IIS,Retired,,,"10,060 kg","3,930 kg",2,2,49.0 m,,
+81.0,1.0,Hyperbola-1,Active,,557 kN,300 kg,0 kg,4,0,21.0 m,1.2 m,2.2 m
+83.0,1.0,R-36 Orb.,Retired,,"2,650 kN","3,350 kg",0 kg,2,0,31.95 m,2.0 m,3.0 m
+82.0,1.0,Jielong-1,Active,$7.5 million,500 kN,250 kg,0 kg,4,0,19.5 m,1.2 m,3.0 m
+86.0,1.0,Terran-1,Planned,$10.0 million,,"1,250 kg",,2,0,,,
+88.0,1.0,Ariane 2,Retired,,"2,580 kN",,"2,175 kg",3,0,49.13 m,,
+89.0,1.0,Ariane 3,Retired,,"5,100 kN",,"2,700 kg",3,2,49.13 m,,
+90.0,1.0,Ariane 40,Retired,,"3,034 kN","5,000 kg","2,000 kg",3,0,58.72 m,,
+90.0,2.0,Ariane 42L,Retired,,"4,538 kN",,"3,480 kg",3,2,58.72 m,,
+90.0,3.0,Ariane 42P,Retired,,"4,334 kN",,"2,930 kg",3,2,58.72 m,,
+90.0,4.0,Ariane 44L,Retired,,"6,000 kN",,"4,720 kg",3,4,58.72 m,,
+90.0,5.0,Ariane 44LP,Retired,,"5,800 kN",,"4,220 kg",3,4,58.72 m,,
+90.0,6.0,Ariane 44P,Retired,,"4,334 kN",,"3,460 kg",3,4,58.72 m,,
+91.0,1.0,Ariane 5 ECA,Active,$200.0 million,"15,120 kN","21,000 kg","10,500 kg",2,2,53.0 m,5.4 m,17.0 m
+91.0,2.0,Ariane 5 ES,Retired,,"15,120 kN","21,000 kg",,2,2,50.5 m,5.4 m,17.0 m
+91.0,3.0,Ariane 5 G,Retired,,"11,400 kN",,"6,900 kg",2,2,52.0 m,,
+91.0,4.0,Ariane 5 G+,Retired,$190.0 million,,"6,200 kg","6,950 kg",2,2,,,
+91.0,5.0,Ariane 5 GS,Retired,,,,"6,600 kg",2,2,,,
+92.0,1.0,Ariane 62,Planned,$88.0 million,"8,370 kN","10,350 kg","5,000 kg",2,2,63.0 m,5.4 m,20.0 m
+92.0,2.0,Ariane 64,Planned,$106.0 million,"15,370 kN","21,650 kg","11,500 kg",2,4,63.0 m,5.4 m,20.0 m
+92.0,3.0,Ariane 64 / Icarus,Planned,$100.0 million,"15,370 kN","25,000 kg","15,000 kg",2,4,63.0 m,5.4 m,20.0 m
+93.0,1.0,Athena II,Retired,,"1,900 kN",,593 kg,4,,28.2 m,,
+94.0,1.0,Atlas-D Mercury,Retired,,"1,880 kN","1,360 kg",,2,0,28.7 m,,
+95.0,1.0,Atlas IIIA,Retired,,"3,826 kN","8,640 kg","4,055 kg",2,0,52.8 m,4.2 m,12.2 m
+95.0,2.0,Atlas IIIB,Retired,,"3,826 kN","10,218 kg","4,500 kg",2,0,52.8 m,4.2 m,12.2 m
+97.0,1.0,Delta IV Medium,Retired,$133.0 million,"3,137 kN","8,800 kg","4,540 kg",2,0,62.5 m,4.0 m,11.75 m
+97.0,2.0,"Delta IV Medium+ (4,2)",Retired,$164.0 million,"4,895 kN","10,440 kg","6,390 kg",2,2,62.5 m,4.0 m,11.75 m
+97.0,3.0,"Delta IV Medium+ (5,2)",Retired,,"4,895 kN","9,610 kg","5,080 kg",2,2,66.4 m,5.1 m,19.1 m
+97.0,4.0,"Delta IV Medium+ (5,4)",Retired,,"6,653 kN","11,600 kg","6,890 kg",2,4,66.4 m,5.1 m,19.1 m
+98.0,1.0,Delta IV Heavy,Active,$350.0 million,"9,411 kN","28,370 kg","13,810 kg",2,2,72.0 m,5.1 m,19.1 m
+99.0,1.0,N-I,Retired,,,"1,200 kg",360 kg,2,3,34.0 m,,
+99.0,2.0,N-I Star-37E,Retired,,,"1,200 kg",360 kg,3,3,34.0 m,,
+100.0,1.0,N-II,Retired,,,"2,000 kg",730 kg,2,9,35.0 m,,
+100.0,2.0,N-II Star-37E,Retired,,,"2,000 kg",730 kg,3,9,35.0 m,,
+101.0,1.0,H-I (9 SO),Retired,,,"3,200 kg","1,100 kg",2,9,42.0 m,2.44 m,
+101.0,2.0,H-I UM-129A (6SO),Retired,,,"3,200 kg","1,100 kg",3,6,42.0 m,2.44 m,
+101.0,3.0,H-I UM-129A (9SO),Retired,,,"3,200 kg","1,100 kg",3,9,42.0 m,2.44 m,
+102.0,1.0,Thor-DM 18 Able I,Retired,,,120 kg,,3,0,27.0 m,,
+102.0,2.0,Thor DM-18 Able-II,Retired,,,,,3,0,,,
+102.0,3.0,Thor DM-18 Able-III,Retired,,,,,3,0,,,
+102.0,4.0,Thor DM-18 Able-IV,Retired,,,,,3,0,,,
+104.0,1.0,Falcon Heavy,Active,$90.0 million,"22,819 kN","63,800 kg","26,700 kg",2,2,70.0 m,5.2 m,13.0 m
+105.0,1.0,H-III 22,Planned,$50.0 million,"2,158 kN",,"4,000 kg",2,2,63.0 m,5.27 m,
+105.0,2.0,H-III 24,Planned,$50.0 million,,,"6,500 kg",2,4,50.0 m,5.27 m,
+105.0,3.0,H-III 30,Planned,$50.0 million,"1,472 kN",,"2,100 kg",2,0,63.0 m,5.27 m,
+106.0,1.0,Kuaizhou 11,Active,$28.3 million,"1,250 kN","1,500 kg",0 kg,4,0,25.3 m,2.2 m,8.5 m
+107.0,1.0,Kuaizhou 1A,Active,$5.8 million,537 kN,300 kg,0 kg,4,0,19.8 m,1.4 m,3.4 m
+108.0,1.0,Long March 11,Active,$5.3 million,"1,176 kN",530 kg,2 kg,4,0,20.8 m,2.0 m,5.0 m
+108.0,2.0,Long March 11A,Planned,,,,0 kg,4,0,,2.64 m,
+108.0,3.0,Long March 11H,Active,$5.3 million,"1,176 kN",700 kg,0 kg,4,0,20.8 m,2.0 m,5.0 m
+111.0,1.0,Long March 2C,Active,$30.8 million,"2,962 kN","2,500 kg","1,000 kg",2,0,34.65 m,3.35 m,5.84 m
+111.0,2.0,Long March 2C/E,Active,$30.8 million,"2,962 kN","2,850 kg","1,000 kg",3,0,42.0 m,3.35 m,8.37 m
+111.0,3.0,Long March 2C/SD,Retired,,"2,962 kN","2,500 kg",,3,0,34.65 m,3.35 m,5.84 m
+111.0,4.0,Long March 2C/SM,Retired,,"2,963 kN","2,500 kg",,3,0,34.65 m,3.35 m,5.84 m
+111.0,5.0,Long March 2C/SMA,Active,$30.8 million,"2,962 kN","2,850 kg","1,000 kg",3,0,38.83 m,3.35 m,8.37 m
+111.0,6.0,Long March 2C/YZ-1S,Active,$30.8 million,"2,962 kN","2,850 kg","1,000 kg",3,0,38.83 m,3.35 m,8.37 m
+110.0,1.0,Long March 2,Retired,,"2,785 kN","1,800 kg",0 kg,2,0,35.93 m,3.35 m,4.34 m
+113.0,1.0,Long March 2E,Retired,,"5,923 kN","9,500 kg","3,500 kg",3,4,49.73 m,4.2 m,12.0 m
+112.0,1.0,Long March 2D,Active,$29.75 million,"2,962 kN","3,500 kg","1,200 kg",2,0,40.77 m,3.35 m,7.82 m
+112.0,2.0,Long March 2D/YZ-3,Active,$30.0 million,"2,962 kN","3,500 kg","1,200 kg",3,0,40.77 m,3.35 m,7.82 m
+114.0,1.0,Long March 2F,Retired,,"5,985 kN","8,400 kg",0 kg,2,4,58.34 m,3.6 m,19.11 m
+114.0,2.0,Long March 2F/G,Active,,"5,985 kN","8,600 kg",0 kg,2,4,58.34 m,3.6 m,19.11 m
+114.0,3.0,Long March 2F/T,Active,,"5,985 kN","8,600 kg",0 kg,2,4,52.03 m,3.8 m,12.78 m
+119.0,1.0,Long March 4A,Retired,,"2,962 kN","4,000 kg",0 kg,3,0,41.9 m,2.9 m,4.91 m
+115.0,1.0,Long March 3,Retired,,"2,804 kN","5,000 kg","1,500 kg",3,0,46.6 m,3.0 m,7.27 m
+115.0,2.0,Long March 3A,Active,$69.7 million,"2,962 kN","8,500 kg","2,600 kg",3,0,52.52 m,3.35 m,8.89 m
+115.0,3.0,Long March 3B,Retired,,"5,924 kN","11,500 kg","5,100 kg",3,4,54.84 m,4.0 m,9.56 m
+115.0,4.0,Long March 3B/E,Active,$29.15 million,"5,986 kN","11,500 kg","5,550 kg",3,4,56.3 m,4.2 m,9.56 m
+115.0,5.0,Long March 3B/YZ-1,Active,,"5,986 kN","12,000 kg","5,550 kg",4,4,54.84 m,4.0 m,10.8 m
+115.0,6.0,Long March 3C,Retired,$20.14 million,"5,923 kN","8,000 kg","3,800 kg",3,2,54.84 m,4.2 m,9.78 m
+115.0,7.0,Long March 3C/E,Active,$20.0 million,"5,923 kN","8,000 kg","3,900 kg",3,4,55.64 m,4.2 m,9.78 m
+115.0,8.0,Long March 3C/YZ-1,Active,$20.0 million,"5,923 kN","7,500 kg","3,500 kg",4,2,55.64 m,4.2 m,9.78 m
+120.0,1.0,Long March 4B,Active,$64.68 million,"2,993 kN","4,200 kg","1,500 kg",3,0,46.97 m,3.8 m,11.74 m
+121.0,1.0,Long March 4C,Active,$64.68 million,"2,993 kN","4,200 kg","1,500 kg",3,0,46.97 m,3.8 m,11.74 m
+123.0,1.0,Long March 5B,Active,,"10,565 kN","23,000 kg",0 kg,2,4,53.66 m,5.2 m,20.5 m
+122.0,1.0,Long March 5,Active,,"10,565 kN","32,000 kg","14,000 kg",3,4,57.0 m,5.2 m,20.0 m
+122.0,2.0,Long March 5/YZ-2,Active,,"10,565 kN","32,000 kg","13,500 kg",3,4,57.0 m,5.2 m,20.0 m
+124.0,1.0,Long March 6,Active,$19.0 million,"1,188 kN","1,080 kg",0 kg,3,0,29.24 m,2.6 m,6.145 m
+124.0,2.0,Long March 6A,Planned,,,,,3,4,45.0 m,2.6 m,5.7 m
+126.0,1.0,Long March 8,Active,$27.0 million,"4,752 kN","7,600 kg","2,500 kg",3,2,50.0 m,4.0 m,12.1 m
+125.0,1.0,Long March 7,Active,,"7,128 kN","13,500 kg","5,500 kg",2,4,53.1 m,4.2 m,12.4 m
+125.0,2.0,Long March 7A,Active,,"7,128 kN","12,000 kg","7,000 kg",3,4,58.0 m,4.2 m,12.4 m
+125.0,3.0,Long March 7/YZ-1A,Active,,"7,128 kN","13,200 kg","5,200 kg",3,4,53.1 m,4.2 m,10.0 m
+127.0,1.0,Minotaur I,Active,$40.0 million,935 kN,580 kg,,4,0,19.21 m,1.27 m,3.79 m
+128.0,1.0,Minotaur IV,Active,$46.0 million,"2,200 kN","1,735 kg",,4,0,23.88 m,2.34 m,6.4 m
+130.0,1.0,Mu-IV S,Retired,,,180 kg,,4,8,23.6 m,,
+129.0,1.0,Minotaur V,Active,$55.0 million,"2,224 kN",,532 kg,5,0,24.56 m,2.34 m,6.4 m
+131.0,1.0,Mu-V/M-24,Retired,,"3,780 kN","1,800 kg",,4,0,30.7 m,,
+131.0,2.0,Mu-V/M-25,Retired,,"3,780 kN","1,800 kg",,4,0,30.7 m,,
+132.0,1.0,Pegasus,Retired,$40.0 million,487 kN,375 kg,,3,0,16.9 m,1.15 m,2.13 m
+132.0,2.0,Pegasus/HAPS,Retired,$40.0 million,487 kN,,,4,0,16.9 m,1.15 m,2.13 m
+132.0,3.0,Pegasus XL,Active,$40.0 million,561 kN,443 kg,,4,0,17.6 m,1.15 m,2.13 m
+132.0,4.0,Pegasus XL/HAPS,Active,$40.0 million,561 kN,,,4,0,17.6 m,1.15 m,2.13 m
+133.0,1.0,Proton-K,Retired,,"9,469 kN","20,100 kg",0 kg,3,0,56.14 m,4.15 m,16.12 m
+133.0,2.0,Proton-K/Block D,Retired,,"8,840 kN","18,900 kg","9,000 kg",4,0,56.14 m,3.9 m,8.9 m
+133.0,3.0,Proton-K/Block D-1,Retired,,"9,468 kN","19,000 kg","9,000 kg",4,0,56.14 m,3.9 m,10.4 m
+133.0,4.0,Proton-K/Block D-2,Retired,,"9,548 kN","19,000 kg","9,000 kg",4,0,56.14 m,3.9 m,10.4 m
+133.0,5.0,Proton-K/Block-DM,Retired,,"9,195 kN","19,000 kg","2,200 kg",4,0,56.14 m,3.9 m,8.9 m
+133.0,6.0,Proton-K/Block DM-1,Retired,,"9,468 kN","19,000 kg","2,200 kg",4,0,57.24 m,3.9 m,7.65 m
+133.0,7.0,Proton K/Block-DM-2,Retired,,"9,548 kN","19,000 kg","2,400 kg",4,0,57.64 m,4.35 m,10.4 m
+133.0,8.0,Proton-K/Block-DM2,Retired,,"9,548 kN","19,000 kg","2,500 kg",4,0,56.14 m,3.9 m,8.9 m
+133.0,9.0,Proton-K/Block DM-2M,Retired,,"9,548 kN","19,000 kg","2,500 kg",4,0,57.64 m,4.35 m,10.4 m
+133.0,10.0,Proton-K/Block DM-3,Retired,,"9,548 kN","19,000 kg","2,500 kg",4,0,57.64 m,4.35 m,10.4 m
+133.0,11.0,Proton-K/Block DM-4,Retired,,"9,548 kN","19,000 kg","2,500 kg",4,0,57.64 m,4.35 m,10.4 m
+133.0,12.0,Proton-K/Block DM-5,Retired,,"9,548 kN","19,000 kg","2,500 kg",4,0,57.64 m,4.35 m,10.4 m
+133.0,13.0,Proton-K/Briz-M,Retired,,"9,548 kN","19,000 kg","2,200 kg",4,0,54.54 m,4.35 m,13.2 m
+134.0,1.0,Proton,Retired,,"8,387 kN","12,200 kg",0 kg,2,0,39.8 m,4.15 m,8.5 m
+135.0,1.0,Cosmos-3,Retired,,"1,481 kN","1,250 kg",0 kg,2,0,32.42 m,2.44 m,5.72 m
+135.0,2.0,Cosmos-3M,Retired,,"1,486 kN","1,500 kg",0 kg,2,0,32.42 m,2.44 m,5.72 m
+135.0,3.0,K65M-RB5,Retired,,"1,486 kN","1,300 kg",0 kg,2,0,26.0 m,2.44 m,5.72 m
+137.0,1.0,Volna,Retired,,618 kN,100 kg,0 kg,3,0,14.2 m,1.3 m,1.4 m
+138.0,1.0,Tsyklon-2,Retired,,"2,650 kN","2,850 kg",0 kg,2,0,39.65 m,3.0 m,10.7 m
+139.0,1.0,Tsyklon-3,Retired,,"3,032 kN","4,100 kg",0 kg,3,0,39.27 m,2.7 m,9.54 m
+140.0,1.0,Molniya-M /Block 2BL,Retired,,"4,391 kN","6,200 kg","2,400 kg",4,4,44.23 m,2.58 m,7.81 m
+140.0,2.0,Molniya-M /Block L,Retired,,"4,391 kN","6,200 kg","2,400 kg",4,4,44.23 m,2.58 m,6.74 m
+140.0,3.0,Molniya-M /Block ML,Retired,,"4,391 kN","6,200 kg","2,400 kg",4,4,42.8 m,2.58 m,8.28 m
+140.0,4.0,Molniya-M /Block NVL,Retired,,"4,391 kN","6,200 kg","2,400 kg",4,4,44.63 m,2.58 m,7.14 m
+140.0,5.0,Molniya-M /Block SO-L,Retired,,"4,391 kN","6,200 kg","2,400 kg",4,4,41.26 m,2.58 m,6.74 m
+140.0,6.0,Molniya-M /Block VL,Retired,,"4,391 kN","6,200 kg","2,400 kg",4,4,42.8 m,2.58 m,8.28 m
+141.0,1.0,Soyuz 2.1a,Active,$17.42 million,"4,550 kN","7,500 kg",0 kg,3,4,51.38 m,4.11 m,15.59 m
+141.0,2.0,Soyuz 2.1a/Fregat,Active,$23.0 million,"4,550 kN","7,020 kg","2,810 kg",4,4,46.94 m,4.11 m,10.2 m
+141.0,3.0,Soyuz 2.1a/Fregat-M,Active,$23.0 million,"4,550 kN","7,020 kg","2,810 kg",4,4,46.94 m,4.11 m,10.2 m
+141.0,4.0,Soyuz 2.1a/Volga,Active,$23.0 million,"4,550 kN","7,020 kg","2,000 kg",4,4,46.94 m,4.11 m,10.2 m
+141.0,5.0,Soyuz ST-A/Fregat,Active,$30.0 million,"4,317 kN","8,500 kg","2,810 kg",4,4,46.94 m,4.11 m,11.43 m
+141.0,6.0,Soyuz ST-A/Fregat-M,Active,$30.0 million,"4,317 kN","8,500 kg","3,000 kg",4,4,46.94 m,4.11 m,11.43 m
+142.0,1.0,Soyuz 2.1b,Active,$20.0 million,"4,550 kN","8,020 kg",0 kg,3,4,44.08 m,4.11 m,8.36 m
+142.0,2.0,Soyuz 2.1b/Fregat,Active,$25.0 million,"4,550 kN","7,500 kg","3,000 kg",4,4,46.94 m,4.11 m,11.43 m
+142.0,3.0,Soyuz 2.1b/Fregat-M,Active,$25.0 million,"4,550 kN","7,500 kg","3,250 kg",4,4,46.94 m,4.11 m,11.43 m
+142.0,4.0,Soyuz ST-B/Fregat-M,Active,$30.0 million,"4,317 kN","9,000 kg","3,100 kg",4,4,46.94 m,4.11 m,11.43 m
+142.0,5.0,Soyuz ST-B/Fregat-MT,Active,$30.0 million,"4,317 kN","9,000 kg","3,250 kg",4,4,46.94 m,4.11 m,11.43 m
+143.0,1.0,Soyuz 2.1v,Active,,"1,535 kN","3,000 kg",0 kg,2,0,44.08 m,3.0 m,8.36 m
+143.0,2.0,Soyuz 2.1v/Volga,Active,,"1,535 kN","2,850 kg",0 kg,3,0,44.08 m,3.0 m,8.36 m
+144.0,1.0,Soyuz FG,Retired,,"4,550 kN","7,300 kg",0 kg,3,4,51.32 m,3.0 m,15.59 m
+144.0,2.0,Soyuz FG/Fregat,Retired,,"4,550 kN","7,300 kg","1,800 kg",4,4,43.5 m,3.0 m,8.1 m
+145.0,1.0,Soyuz U,Retired,$20.0 million,"4,456 kN","6,860 kg",0 kg,3,4,51.32 m,3.0 m,15.59 m
+145.0,2.0,Soyuz U2,Retired,$40.0 million,"4,693 kN","7,150 kg",0 kg,3,4,51.32 m,3.0 m,15.59 m
+145.0,3.0,Soyuz U/Fregat,Retired,$28.0 million,"4,456 kN","6,860 kg","1,400 kg",4,4,43.1 m,3.0 m,7.7 m
+145.0,4.0,Soyuz U/Ikar,Retired,$28.0 million,"4,456 kN","6,860 kg","1,000 kg",4,4,43.58 m,3.0 m,7.86 m
+146.0,1.0,Sputnik 8A91,Retired,,"4,457 kN","1,330 kg",0 kg,2,4,30.41 m,3.0 m,4.21 m
+147.0,1.0,Sputnik 8K71PS,Retired,,"4,457 kN",510 kg,0 kg,2,4,30.2 m,2.95 m,4.0 m
+148.0,1.0,Vostok,Retired,,"4,570 kN","4,730 kg",0 kg,3,4,38.36 m,2.58 m,6.74 m
+149.0,1.0,Vostok-2,Retired,,"4,570 kN","4,750 kg",0 kg,3,4,38.36 m,2.58 m,6.74 m
+149.0,2.0,Vostok-2A,Retired,,"4,570 kN","4,500 kg",0 kg,2,4,39.1 m,2.58 m,10.66 m
+149.0,3.0,Vostok-2M,Retired,,"4,570 kN","5,100 kg",0 kg,3,4,38.76 m,2.58 m,7.14 m
+150.0,1.0,Juno II,Retired,,667 kN,41 kg,,4,0,24.0 m,,
+151.0,1.0,Redstone Sparta,Retired,,350 kN,45 kg,,3,0,21.0 m,,
+153.0,1.0,Saturn V,Retired,"$1,160.0 million","35,100 kN","140,000 kg",,3,0,110.6 m,,
+152.0,1.0,Saturn IB,Retired,,"7,100 kN","21,000 kg",,2,0,43.2 m,,
+156.0,1.0,START,Retired,,890 kN,850 kg,0 kg,5,0,28.94 m,1.61 m,4.34 m
+156.0,2.0,START-1,Active,,890 kN,532 kg,0 kg,4,0,22.74 m,1.33 m,3.34 m
+157.0,1.0,Unha-2,Retired,,284 kN,100 kg,0 kg,3,0,29.5 m,1.25 m,2.0 m
+158.0,1.0,Unha-3,Active,,284 kN,200 kg,0 kg,3,0,30.0 m,1.25 m,2.0 m
+169.0,1.0,Delta 4925-8,Retired,,"3,469 kN","3,400 kg","1,200 kg",3,9,34.0 m,2.44 m,
+167.0,1.0,Strela,Retired,,"1,870 kN","1,850 kg",0 kg,3,0,27.36 m,2.5 m,7.6 m
+170.0,1.0,Delta III 8930,Retired,,"4,856 kN","8,290 kg","3,810 kg",2,9,35.0 m,4.0 m,10.84 m
+172.0,1.0,Firefly Beta,Planned,,"2,208 kN","4,000 kg",400 kg,2,2,31.0 m,2.8 m,5.5 m
+171.0,1.0,Falcon 1,Retired,$7.0 million,343 kN,470 kg,,2,0,22.25 m,1.5 m,3.5 m
+173.0,1.0,SM-65B Atlas,Retired,,"1,600 kN",70 kg,,2,0,26.0 m,,
+174.0,1.0,Cargo Starship-Super Heavy,Planned,,"61,800 kN","100,000 kg",,2,0,120.0 m,9.0 m,
+174.0,2.0,Crew Starship-Super Heavy,Planned,,"61,800 kN",,,2,0,120.0 m,,
+174.0,3.0,Starship HLS-Super Heavy,Planned,,"61,800 kN",,,2,0,120.0 m,,
+174.0,4.0,Starship-Super Heavy (Prototype),Active,,"61,800 kN",,,2,0,120.0 m,9.0 m,
+174.0,5.0,Tanker Starship-Super Heavy,Planned,,"61,800 kN",,,2,0,120.0 m,,
+176.0,1.0,Miura 5,Planned,,,300 kg,,3,0,20.7 m,,
+177.0,1.0,Voskhod,Retired,,"4,616 kN","6,001 kg",0 kg,3,4,44.63 m,2.58 m,7.14 m
+179.0,1.0,H-IIA 202,Active,$90.0 million,,"10,000 kg","4,100 kg",2,2,53.0 m,4.07 m,12.0 m
+179.0,2.0,H-IIA 2022,Retired,,,,"4,500 kg",2,2,53.0 m,4.07 m,12.0 m
+179.0,3.0,H-IIA 2024,Retired,,,,"5,000 kg",2,4,53.0 m,4.07 m,12.0 m
+179.0,4.0,H-IIA 204,Active,,,"15,000 kg","6,000 kg",2,4,,4.07 m,12.0 m
+178.0,1.0,GSLV Mk III,Active,$62.0 million,"11,898 kN","10,000 kg","4,000 kg",3,2,43.4 m,5.0 m,
+180.0,1.0,H-IIB,Retired,$112.5 million,,"16,500 kg","8,000 kg",2,4,56.6 m,5.1 m,15.0 m
+183.0,1.0,Angara 1.2,Active,,"1,922 kN","3,800 kg",0 kg,2,0,42.4 m,3.0 m,9.9 m
+183.0,2.0,Angara 1.2PP,Retired,,"1,922 kN",,0 kg,2,0,,3.0 m,9.9 m
+181.0,1.0,Atlas-E/F Altair,Retired,,,210 kg,,2,0,,,
+184.0,1.0,Conestoga-1620,Retired,$20.0 million,,"1,179 kg",,4,6,,,
+185.0,1.0,Long March 9,Planned,,"5,700 kN","145,000 kg","50,000 kg",3,4,110.0 m,,
+188.0,1.0,Mercury-Redstone,Retired,,350 kN,0 kg,,1,0,25.4 m,,
+189.0,1.0,Kaituozhe 1,Retired,,300 kN,100 kg,0 kg,4,0,13.6 m,1.0 m,3.1 m
+191.0,1.0,ZhuQue-2,Planned,,"2,636 kN","4,000 kg",0 kg,2,0,48.8 m,3.35 m,5.0 m
+190.0,1.0,Feng Bao 1,Retired,,"2,785 kN","2,500 kg",0 kg,2,0,33.0 m,3.35 m,5.0 m
+193.0,1.0,Polyot,Retired,,"4,570 kN","1,400 kg",0 kg,2,4,30.0 m,2.58 m,5.68 m
+192.0,1.0,Dnepr,Retired,$29.0 million,"4,166 kN","4,500 kg",500 kg,3,0,34.3 m,3.0 m,7.45 m
+194.0,1.0,Soyuz,Retired,,"4,456 kN","6,640 kg",0 kg,3,4,48.47 m,3.0 m,12.8 m
+195.0,1.0,Soyuz L,Retired,,"4,054 kN","5,500 kg",0 kg,3,4,48.0 m,5.0 m,7.8 m
+196.0,1.0,Soyuz M,Retired,,995 kN,"6,600 kg",0 kg,3,4,47.8 m,3.0 m,7.2 m
+197.0,1.0,Molniya,Retired,,"4,378 kN","6,000 kg","2,200 kg",4,4,44.23 m,2.58 m,6.74 m
+198.0,1.0,NSL-A,Planned,$4.0 million,210 kN,200 kg,0 kg,3,0,18.0 m,1.2 m,
+199.0,1.0,New Shepard,Active,,490 kN,0 kg,0 kg,2,0,18.0 m,,
+200.0,1.0,SARGE,Active,,,,,1,0,11.0 m,0.51 m,0.91 m
+201.0,1.0,MOMO,Active,$0.44 million,83 kN,0 kg,0 kg,1,0,10.0 m,0.5 m,0.8 m
+204.0,1.0,Atlas-D Able,Retired,,"1,880 kN",,,3,0,35.0 m,,
+202.0,1.0,Delta 3910,Retired,,,,"1,154 kg",2,9,,,
+202.0,2.0,Delta 3913,Retired,,,,,3,9,,,
+202.0,3.0,Delta 3914,Retired,,,,954 kg,3,9,,,
+202.0,4.0,Delta 3920,Retired,,,"3,452 kg",,2,9,,,
+202.0,5.0,Delta 3920-8,Retired,,"3,188 kN",,,2,9,,2.9 m,
+202.0,6.0,Delta 3924,Retired,,,,"1,104 kg",3,9,,,
+205.0,1.0,Atlas-E/F Agena D,Retired,,,,,2,0,,,
+205.0,2.0,Atlas-LV3 Agena-A,Retired,,,"1,250 kg",,2,0,,,
+205.0,3.0,Atlas-LV3 Agena-B,Retired,,,"1,725 kg",,2,0,,,
+205.0,4.0,Atlas-LV3 Agena-D,Retired,,,,,2,0,,,
+205.0,5.0,Atlas-SLV3A Agena-D,Retired,,,,,2,0,,,
+205.0,6.0,Atlas-SLV3 Agena-B,Retired,,,,,2,0,,,
+205.0,7.0,Atlas-SLV3 Agena-D,Retired,,,"1,825 kg",,2,0,,,
+205.0,8.0,Atlas-SLV3B Agena-D,Retired,,,,,2,0,,,
+206.0,1.0,Super Stripy,Active,$15.0 million,134 kN,250 kg,,3,0,18.0 m,1.32 m,
+207.0,1.0,Tsyklon-2A,Retired,,"2,650 kN","3,000 kg",0 kg,2,0,39.65 m,3.0 m,10.7 m
+208.0,1.0,Cosmos-1 (65S3),Retired,,636 kN,350 kg,0 kg,2,0,29.59 m,1.65 m,2.99 m
+209.0,1.0,Cosmos-2 (63SM),Retired,,636 kN,400 kg,0 kg,2,0,29.59 m,1.65 m,2.99 m
+211.0,1.0,Blue Scout II,Retired,,471 kN,,,4,0,24.0 m,,
+212.0,1.0,Atlas-D OV1,Retired,,"1,880 kN",,,2,0,,,
+212.0,2.0,Atlas-E/F OV1,Retired,,,363 kg,,2,0,,,
+215.0,1.0,Tsyklon-4M,Planned,$45.0 million,"3,111 kN","5,000 kg",910 kg,2,0,39.2 m,4.0 m,9.7 m
+213.0,1.0,Atlas SLV-3,Retired,,,800 kg,,,0,,,
+216.0,1.0,Soyuz 5,Planned,,"7,260 kN","17,000 kg","5,000 kg",2,0,63.7 m,4.1 m,10.4 m
+216.0,2.0,Soyuz 5/Fregat-SBU,Planned,,"7,260 kN","17,000 kg","5,000 kg",3,0,63.7 m,4.1 m,10.4 m
+220.0,1.0,Atlas-E/F Burner,Retired,,,950 kg,,2,0,,,
+220.0,2.0,Atlas-SLV3 Burner-2,Retired,,,,,2,0,,,
+222.0,1.0,Atlas-G Centaur-D1AR,Retired,,,"5,900 kg","2,222 kg",2,0,,,
+222.0,2.0,Atlas-LV3C Centaur-A,Retired,,,,,2,0,,,
+222.0,3.0,Atlas-LV3C Centaur-B,Retired,,,,,2,0,,,
+222.0,4.0,Atlas-LV3C Centaur-C,Retired,,,,,2,0,,,
+222.0,5.0,Atlas-LV3C Centaur-D,Retired,,,,,2,0,,,
+222.0,6.0,Atlas-SLV3C Centaur-D,Retired,,,,,2,0,,,
+222.0,7.0,Atlas-SLV3D Centaur-D1A,Retired,,,,,2,0,,,
+222.0,8.0,Atlas-SLV3D Centaur-D1AR,Retired,,,,,2,0,,,
+223.0,1.0,Rocket 3,Active,$2.5 million,133 kN,204 kg,0 kg,2,0,11.6 m,,
+224.0,1.0,Starship Prototype,Active,,"6,000 kN",,,1,0,50.0 m,,
+225.0,1.0,Ceres-1,Active,$4.9 million,588 kN,350 kg,0 kg,4,0,19.0 m,1.28 m,2.6 m
+225.0,2.0,Palas 1,Planned,,"2,746 kN","4,000 kg",0 kg,2,0,42.0 m,3.15 m,6.3 m
+228.0,1.0,Atlas II,Retired,,"2,479 kN","6,580 kg","2,810 kg",2,0,47.5 m,,
+228.0,2.0,Atlas IIA,Retired,,"2,479 kN","7,316 kg","3,180 kg",2,0,47.5 m,,
+228.0,3.0,Atlas IIAS,Retired,,"2,957 kN","8,618 kg","3,933 kg",2,4,47.5 m,,
+227.0,1.0,Zéphyr,Planned,,56 kN,80 kg,,2,0,12.3 m,1.0 m,
+229.0,1.0,Atlas I,Retired,,,,,2,0,43.9 m,,
+230.0,1.0,Scout A,Retired,,,,,4,0,,,
+230.0,2.0,Scout A1,Retired,,,122 kg,,4,0,,,
+230.0,3.0,Scout B,Retired,,622 kN,143 kg,0 kg,4,0,21.0 m,,
+230.0,4.0,Scout B1,Retired,,622 kN,129 kg,0 kg,4,0,21.0 m,,
+230.0,5.0,Scout D1,Retired,,622 kN,185 kg,0 kg,4,0,21.0 m,,
+230.0,6.0,Scout E1,Retired,,,,,5,0,,,
+230.0,7.0,Scout F1,Retired,,622 kN,193 kg,0 kg,4,0,21.0 m,,
+230.0,8.0,Scout G1,Retired,,622 kN,210 kg,0 kg,4,0,21.0 m,,
+230.0,9.0,Scout X-1,Retired,,,,,4,,25.0 m,,
+230.0,10.0,Scout X-2,Retired,,440 kN,76 kg,,4,,25.0 m,,
+230.0,11.0,Scout X-2B,Retired,,,,,4,,22.0 m,,
+230.0,12.0,Scout X-2M,Retired,,440 kN,,,4,,22.0 m,,
+230.0,13.0,Scout X-3,Retired,,,87 kg,,4,0,,,
+230.0,14.0,Scout X-3M,Retired,,,,,4,,22.0 m,,
+230.0,15.0,Scout X-4,Retired,,,103 kg,,4,,25.0 m,,
+231.0,1.0,Qased,Active,,280 kN,80 kg,0 kg,3,0,18.6 m,1.0 m,2.6 m
+232.0,1.0,Atlas-E/F MSD,Retired,,,800 kg,,2,0,,,
+232.0,2.0,Atlas-H MSD,Retired,,,,,2,0,,,
+233.0,1.0,Atlas-E/F OIS,Retired,,,870 kg,,2,0,,,
+234.0,1.0,Atlas-E/F PTS,Retired,,,295 kg,,2,0,,,
+236.0,1.0,Atlas-E/F Star-17A,Retired,,,,,2,0,,,
+236.0,2.0,Atlas-E/F Star-37S-ISS,Retired,,,,,2,0,,,
+235.0,1.0,Atlas-E/F SGS-1,Retired,,,,,3,0,,,
+235.0,2.0,Atlas-E/F SGS-2,Retired,,,,,3,0,,,
+241.0,1.0,Thorad SLV-2G Agena-D,Retired,,"1,571 kN",,,2,3,31.0 m,,
+241.0,2.0,Thor-DM18 Agena-A,Retired,,,,,3,0,,,
+241.0,3.0,Thor DM-21 Agena-B,Retired,,,,,3,0,,,
+241.0,4.0,Thor DM-21 Agena-D,Retired,,,,,3,0,,,
+241.0,5.0,Thor-SLV2A Agena-D,Retired,,"1,571 kN",,,2,3,31.0 m,,
+243.0,1.0,Thor DM-19 Delta,Retired,,,,,0,3,,,
+242.0,1.0,Thor-DM21 Ablestar,Retired,,760 kN,150 kg,,0,2,29.0 m,,
+242.0,2.0,Thor-DSV2A Ablestar,Retired,,,,,2,0,,,
+244.0,1.0,Delta A,Retired,,,320 kg,68 kg,3,0,,,
+245.0,1.0,Delta B,Retired,,,375 kg,68 kg,3,0,,,
+247.0,1.0,Ares 1-X,Retired,$450.0 million,"12,500 kN",,,1,0,94.0 m,,
+248.0,1.0,Delta C,Retired,,667 kN,410 kg,82 kg,3,0,31.0 m,,
+248.0,2.0,Delta C1,Retired,,,600 kg,,3,0,,,
+251.0,1.0,Zoljanah,Active,,726 kN,600 kg,,4,0,25.5 m,1.25 m,
+252.0,1.0,Amur/Fregat-M,Planned,$22.0 million,"4,903 kN","12,500 kg","2,500 kg",3,0,55.0 m,5.1 m,5.8 m
+253.0,1.0,SpaceShipTwo,Active,,,0 kg,0 kg,1,0,,,
+254.0,1.0,Delta D,Retired,,"1,725 kN",575 kg,104 kg,3,3,,,
+255.0,1.0,Callisto,Planned,,,0 kg,0 kg,1,0,13.0 m,1.1 m,0.0 m
+256.0,1.0,Thémis,Planned,,,0 kg,0 kg,1,0,26.0 m,0.0 m,0.0 m
+258.0,1.0,RFA One,Planned,,,"1,100 kg",,2,0,,,
+257.0,1.0,Spectrum,Planned,,675 kN,"1,000 kg",,2,0,27.0 m,2.0 m,
+259.0,1.0,RS1,Planned,$12.0 million,485 kN,"1,350 kg",,2,0,,,
+260.0,1.0,Commercial Titan III,Retired,$136.6 million,"12,454 kN","14,515 kg",,2,2,47.0 m,,
+260.0,2.0,Titan 34D,Retired,,"11,279 kN","14,515 kg","5,000 kg",3,2,50.0 m,3.05 m,
+260.0,3.0,Titan III(23)B,Retired,,"2,300 kN","3,300 kg",,3,0,45.0 m,1.5 m,
+260.0,4.0,Titan III(23)C,Retired,,"13,642 kN","13,100 kg","3,000 kg",3,2,42.0 m,3.0 m,
+260.0,5.0,Titan III(24)B,Retired,,"2,410 kN","4,000 kg",,3,0,50.0 m,3.05 m,
+260.0,6.0,Titan-III(33)B Agena-D,Retired,,"2,300 kN",,,3,,45.0 m,3.05 m,
+260.0,7.0,Titan III(34)B Agena-D,Retired,,"2,300 kN",,,3,,45.0 m,3.05 m,
+260.0,8.0,Titan IIIA,Retired,$63.23 million,"1,936 kN","3,100 kg",,3,0,42.0 m,,
+260.0,9.0,Titan IIIB,Retired,$59.0 million,"2,300 kN","3,300 kg",,3,0,45.0 m,1.52 m,
+260.0,10.0,Titan IIIC,Retired,,"13,642 kN","13,100 kg","3,000 kg",3,2,42.0 m,3.0 m,
+260.0,11.0,Titan IIID,Retired,,"10,587 kN","12,300 kg",,2,2,36.0 m,,
+260.0,12.0,Titan IIIE,Retired,,"12,769 kN","15,400 kg",,3,2,48.8 m,,
+261.0,1.0,Titan IV(401)A,Retired,,"14,200 kN",,,3,2,63.0 m,5.1 m,
+261.0,2.0,Titan IV(401)B,Retired,,"15,000 kN",,,3,2,62.0 m,5.1 m,
+261.0,3.0,Titan IV(402)A,Retired,,"14,200 kN",,"4,944 kg",4,2,54.0 m,5.1 m,
+261.0,4.0,Titan IV(402)B,Retired,,"15,000 kN",,,4,2,54.0 m,5.1 m,
+261.0,5.0,Titan IV(403)A,Retired,,"14,200 kN","17,700 kg",,2,2,54.0 m,5.1 m,
+261.0,6.0,Titan IV(403)B,Retired,,"15,000 kN","21,680 kg",,2,2,54.0 m,5.1 m,
+261.0,7.0,Titan IV(404)A,Retired,,"14,200 kN","17,700 kg",,2,2,54.0 m,5.1 m,
+261.0,8.0,Titan IV(404)B,Retired,,"15,000 kN","21,680 kg",,2,2,54.0 m,5.1 m,
+261.0,9.0,Titan IV(405)A,Retired,,"14,200 kN","17,700 kg",,2,2,54.0 m,5.1 m,
+261.0,10.0,Titan IV(405)B,Retired,,"15,000 kN","21,680 kg",,2,2,54.0 m,5.1 m,
+263.0,1.0,Delta 1410,Retired,,,,,2,4,,,
+263.0,2.0,Delta 1604,Retired,,,,,3,6,,,
+263.0,3.0,Delta 1900,Retired,,,"1,800 kg",,2,9,,,
+263.0,4.0,Delta 1910,Retired,,,,,2,9,,,
+263.0,5.0,Delta 1913,Retired,,,,,3,9,,,
+263.0,6.0,Delta 1914,Retired,,,,680 kg,3,9,,,
+262.0,1.0,Thor-LV2D Burner-1I,Retired,,"1,571 kN",,,2,3,31.0 m,,
+262.0,2.0,Thor-LV2D Burner-2,Retired,,,,,2,3,,,
+262.0,3.0,Thor-LV2F Star-ISS,Retired,,,,,2,3,,,
+264.0,1.0,Delta 2310,Retired,,,,,2,3,,,
+264.0,2.0,Delta 2313,Retired,,,,,3,3,,,
+264.0,3.0,Delta 2910,Retired,,,"1,887 kg",,2,9,,,
+264.0,4.0,Delta 2913,Retired,,,,,3,9,,,
+264.0,5.0,Delta 2914,Retired,,,,724 kg,3,9,,,
+266.0,1.0,Delta M,Retired,,,,356 kg,3,3,,,
+266.0,2.0,Delta M6,Retired,,,"1,293 kg",454 kg,3,6,,,
+265.0,1.0,Delta 5920-8,Retired,,,"3,849 kg",,2,9,,,
+267.0,1.0,Delta 300,Retired,,,,,2,3,,,
+267.0,2.0,Delta 900,Retired,,,,,2,9,,,
+268.0,1.0,Delta E,Retired,,,735 kg,150 kg,3,3,,,
+268.0,2.0,Delta E1,Retired,,,,205 kg,3,3,,,
+269.0,1.0,Delta G,Retired,,,,,2,3,,,
+270.0,1.0,Delta J,Retired,,,800 kg,263 kg,3,3,,,
+271.0,1.0,Delta N,Retired,,,900 kg,,2,3,,,
+271.0,2.0,Delta N6,Retired,,,"1,600 kg",,2,6,,,
+272.0,1.0,Delta L,Retired,,,998 kg,356 kg,3,3,,,
+274.0,1.0,Cargo Starship,Planned,,,,,,,50.0 m,,
+274.0,2.0,Crew Starship,Planned,,,,,,,50.0 m,,
+274.0,3.0,Tanker Starship,Planned,,,,,,,50.0 m,,
+275.0,1.0,Super Heavy,Planned,,,,,1,0,70.0 m,,
+275.0,2.0,Super Heavy Prototype,Active,,,,,1,0,70.0 m,,
+276.0,1.0,Terran R,Planned,,"9,341 kN","20,000 kg",,2,0,65.8 m,5.0 m,
+277.0,1.0,Launcher Light,Planned,,98 kN,150 kg,,3,0,15.2 m,,
+279.0,1.0,Hapith I,Planned,,520 kN,0 kg,0 kg,2,0,10.0 m,,
+280.0,1.0,Hapith V,Planned,,650 kN,390 kg,0 kg,3,0,20.0 m,2.2 m,
+281.0,1.0,Zhongke-1A,Planned,,,"2,000 kg","1,500 kg",4,0,31.0 m,3.35 m,
